@@ -1,28 +1,42 @@
-# examenunidadIbalanceoCarlosDaniel
+# Examen Unidad I - Balanceo con Primitivas 3D
+
+## examenunidadIbalanceoCarlosDaniel
 
 ## Alumno
 Nombre: Carlos Daniel Huerta Silva
 Matrícula: 42302767
 
-## Materia
-Proyecto de Desarrollo para Dispositivos Móviles
-
 ## Descripción
-Proyecto realizado en Unity para crear una estructura balanceada utilizando primitivas 3D y física básica.
+Proyecto desarrollado en Unity donde se construyó una estructura balanceada utilizando primitivas 3D, aplicando materiales, físicas, audio y control de versiones con Git y GitHub.
 
-## Tecnologías
+---
+
+# Tecnologías utilizadas
+
 - Unity
+- C#
 - Git
 - GitHub
 
-## Estructura de ramas
-- main
-- estructura-base
-- materiales-y-diseno
-- fisicas-y-equilibrio
-- audio-y-condicion-de-perdida
-- documentacion
-- version-final
+---
 
-## Evidencias
-Aquí se agregarán las capturas y explicaciones solicitadas durante el desarrollo del proyecto.
+# Estructura del proyecto
+
+La estructura fue construida utilizando primitivas 3D:
+
+- Cubes
+- Cylinders
+- Capsule
+
+Se organizó dentro del objeto principal:
+
+```text
+EstructuraBalanceada
+├── Cubo_plataforma
+├── Cubo_plataforma2
+├── cilindro_peso1_1kg
+├── cilindro_peso2_1kg
+├── cilindro_peso3_1kg
+├── cilindro_peso4_1kg
+├── cilindro_peso5_1kg
+└── Capsule
