@@ -19,6 +19,8 @@ Proyecto desarrollado en Unity donde se construyó una estructura balanceada uti
 - GitHub
 
 ---
+# Enlace para los videos de comprobacion
+https://drive.google.com/drive/folders/122BeXMogVRz8P87_F4d0lih1qGN0I8xE?usp=sharing
 
 # Estructura del proyecto
 
